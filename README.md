@@ -1,10 +1,8 @@
-﻿# Meal planner
+# MealMind
 
-MealMind
+<img src="./assets/header.svg" width="100%" alt="MealMind" />
 
-## Stack
-
-react Â· vite Â· typescript Â· node
+Meal planning made simple.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
