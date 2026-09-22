@@ -1,8 +1,12 @@
 # MealMind
 
-<img src="./assets/header.svg" width="100%" alt="MealMind" />
+Meal planning assistant prototype.
 
-Meal planning made simple.
+**Status:** prototype
+
+## Stack
+
+React, TypeScript, Vite
 
 ## Run locally
 
